@@ -7,7 +7,7 @@ git add . || goto :error
 git commit -m "wryyy" || goto :error
 
 @REM REM 喔喔喔
-git push orgin main || goto :error
+git push origin main || goto :error
 
 :error
 exit /b %errorlevel%

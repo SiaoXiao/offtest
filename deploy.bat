@@ -5,7 +5,7 @@ ECHO OFF
 git add .
 
 @REM 合併
-git commit -m "可以喔"
+git commit -m "yes we can"
 
 @REM 推拉
-git push -u orgin main
+git push orgin main

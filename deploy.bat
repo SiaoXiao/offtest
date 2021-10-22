@@ -8,4 +8,4 @@ git add .
 git commit -m "可以喔"
 
 @REM 推拉
-git push -u orgin mail
+git push -u orgin main

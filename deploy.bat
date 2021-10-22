@@ -1,11 +1,10 @@
-ECHO OFF
+@REM ECHO OFF
 
-
-@REM 通過拉
+@REM 喔
 git add .
 
-@REM 合併
-git commit -m "yes we can"
+@REM 喔喔
+git commit -m "wryyy"
 
-@REM 推拉
+@REM 喔喔喔
 git push orgin main
